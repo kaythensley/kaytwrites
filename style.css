@@ -9,3 +9,6 @@ nav {
 h1 {
  font-family: 'Josefin Sans', sans-serif;
  }
+aside.ul {
+  list-style-type: none;
+}
